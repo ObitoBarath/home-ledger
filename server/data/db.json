@@ -1,0 +1,800 @@
+{
+  "records": {
+    "settings": {
+      "id": "settings",
+      "kind": "settings",
+      "limit": 50000,
+      "bill": ""
+    },
+    "mvo09it6dbpc": {
+      "id": "mvo09it6dbpc",
+      "amount": 20500,
+      "date": "2026-08-24",
+      "category": "Bricks & Masonry",
+      "note": "Brick",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0a3oq0507": {
+      "id": "mvo0a3oq0507",
+      "amount": 10900,
+      "date": "2026-08-24",
+      "category": "Foundation",
+      "note": "M Sand 1 Unit",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0amo1fzyl": {
+      "id": "mvo0amo1fzyl",
+      "amount": 8300,
+      "date": "2026-08-24",
+      "category": "Foundation",
+      "note": "Jalli 1 Unit",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0bckho50s": {
+      "id": "mvo0bckho50s",
+      "amount": 25589,
+      "date": "2026-08-25",
+      "category": "Steel",
+      "note": "",
+      "worker": "",
+      "task": "",
+      "bill": "/uploads/mvo0bckho50s-mvo0bsr0.jpg"
+    },
+    "mvo0cyz6eiyw": {
+      "id": "mvo0cyz6eiyw",
+      "amount": 600,
+      "date": "2026-08-28",
+      "category": "Other",
+      "note": "Rope and Sheet (Padutha)",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0de5t4o0w": {
+      "id": "mvo0de5t4o0w",
+      "amount": 50,
+      "date": "2026-08-28",
+      "category": "Plumbing",
+      "note": "Pipe close dummy",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0dub6k6z5": {
+      "id": "mvo0dub6k6z5",
+      "amount": 1000,
+      "date": "2026-08-28",
+      "category": "Painting",
+      "note": "Water Proof Black Paint",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0ebaixqb9": {
+      "id": "mvo0ebaixqb9",
+      "amount": 1360,
+      "date": "2026-08-29",
+      "category": "Cement",
+      "note": "4 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0en8965ot": {
+      "id": "mvo0en8965ot",
+      "amount": 350,
+      "date": "2026-08-29",
+      "category": "Plumbing",
+      "note": "",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0ffma0q9q": {
+      "id": "mvo0ffma0q9q",
+      "amount": 660,
+      "date": "2026-08-30",
+      "category": "Cement",
+      "note": "2 * 330",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0fu093voy": {
+      "id": "mvo0fu093voy",
+      "amount": 340,
+      "date": "2026-08-31",
+      "category": "Cement",
+      "note": "1 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0ggiiqxj8": {
+      "id": "mvo0ggiiqxj8",
+      "amount": 120,
+      "date": "2026-08-31",
+      "category": "Other",
+      "note": "Wrapper",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0huk2dp4m": {
+      "id": "mvo0huk2dp4m",
+      "amount": 3700,
+      "date": "2026-09-06",
+      "category": "Other",
+      "note": "Vibrator",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0ieeyem4z": {
+      "id": "mvo0ieeyem4z",
+      "amount": 680,
+      "date": "2026-09-06",
+      "category": "Cement",
+      "note": "",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0j0t7vom2": {
+      "id": "mvo0j0t7vom2",
+      "amount": 100,
+      "date": "2026-09-07",
+      "category": "Other",
+      "note": "Tape",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0jed73clx": {
+      "id": "mvo0jed73clx",
+      "amount": 800,
+      "date": "2026-09-07",
+      "category": "Other",
+      "note": "DimsKattai",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0kkab34ql": {
+      "id": "mvo0kkab34ql",
+      "amount": 1360,
+      "date": "2026-09-12",
+      "category": "Cement",
+      "note": "4 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0kxd84l74": {
+      "id": "mvo0kxd84l74",
+      "amount": 680,
+      "date": "2026-09-14",
+      "category": "Cement",
+      "note": "2 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0lfuz60d0": {
+      "id": "mvo0lfuz60d0",
+      "amount": 9897,
+      "date": "2026-09-15",
+      "category": "Steel",
+      "note": "",
+      "worker": "",
+      "task": "",
+      "bill": "/uploads/mvo0lfuz60d0-mvo0m9a0.jpg"
+    },
+    "mvo0n5ernwif": {
+      "id": "mvo0n5ernwif",
+      "amount": 60,
+      "date": "2026-09-15",
+      "category": "Other",
+      "note": "Hook",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0nkrn9akw": {
+      "id": "mvo0nkrn9akw",
+      "amount": 340,
+      "date": "2026-09-15",
+      "category": "Cement",
+      "note": "1",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0oq2b3ewz": {
+      "id": "mvo0oq2b3ewz",
+      "amount": 1020,
+      "date": "2026-09-16",
+      "category": "Cement",
+      "note": "3 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0pkcr9u1a": {
+      "id": "mvo0pkcr9u1a",
+      "amount": 680,
+      "date": "2026-09-21",
+      "category": "Cement",
+      "note": "2 * 340",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0s7vos917": {
+      "id": "mvo0s7vos917",
+      "amount": 12979,
+      "date": "2026-09-22",
+      "category": "Steel",
+      "note": "ARS 550D",
+      "worker": "",
+      "task": "",
+      "bill": "/uploads/mvo0s7vos917-mvo0v6oo.jpg"
+    },
+    "mvo0ssilp8zm": {
+      "id": "mvo0ssilp8zm",
+      "amount": 500,
+      "date": "2026-09-22",
+      "category": "Other",
+      "note": "Kattu Kambi",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0ta1ouqxi": {
+      "id": "mvo0ta1ouqxi",
+      "amount": 3100,
+      "date": "2026-09-22",
+      "category": "Cement",
+      "note": "3100",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0vxvhb5rm": {
+      "id": "mvo0vxvhb5rm",
+      "amount": 5200,
+      "date": "2026-09-29",
+      "category": "Foundation",
+      "note": "Palagai",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0wllh4pfr": {
+      "id": "mvo0wllh4pfr",
+      "amount": 700,
+      "date": "2026-09-30",
+      "category": "Cement",
+      "note": "2 * 350",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0xym5m7qa": {
+      "id": "mvo0xym5m7qa",
+      "amount": 7500,
+      "date": "2026-10-01",
+      "category": "Cement",
+      "note": "25 *300",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo0yen9di6b": {
+      "id": "mvo0yen9di6b",
+      "amount": 401,
+      "date": "2026-10-01",
+      "category": "Steel",
+      "note": "ARS 550D",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo10xqw8ys7": {
+      "id": "mvo10xqw8ys7",
+      "amount": 1000,
+      "date": "2026-08-27",
+      "category": "Rentals",
+      "note": "Concrete Destroyer",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo11ojrimgo": {
+      "id": "mvo11ojrimgo",
+      "amount": 180,
+      "date": "2026-08-30",
+      "category": "Rentals",
+      "note": "Steel Cutter + Blade",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo126f2emr6": {
+      "id": "mvo126f2emr6",
+      "amount": 250,
+      "date": "2026-08-31",
+      "category": "Rentals",
+      "note": "Vibrator",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo12rdqory6": {
+      "id": "mvo12rdqory6",
+      "amount": 1000,
+      "date": "2026-09-20",
+      "category": "Rentals",
+      "note": "Concrete Destroyer",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo240k3yzc0": {
+      "id": "mvo240k3yzc0",
+      "amount": 500,
+      "date": "2026-08-25",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "Delivered Steel",
+      "bill": ""
+    },
+    "mvo2528jua4n": {
+      "id": "mvo2528jua4n",
+      "amount": 200,
+      "date": "2026-08-25",
+      "category": "Labour",
+      "note": "Tire stuck in the mud",
+      "worker": "NA",
+      "task": "NA",
+      "bill": ""
+    },
+    "mvo25xur4akf": {
+      "id": "mvo25xur4akf",
+      "amount": 500,
+      "date": "2026-08-25",
+      "category": "Labour",
+      "note": "Truck Pulls Lorry",
+      "worker": "Ganesan",
+      "task": "Lorry Pull",
+      "bill": ""
+    },
+    "mvo26hwsma2x": {
+      "id": "mvo26hwsma2x",
+      "amount": 100,
+      "date": "2026-08-25",
+      "category": "Labour",
+      "note": "",
+      "worker": "NA",
+      "task": "Delivered Jalli",
+      "bill": ""
+    },
+    "mvo274t8ylzw": {
+      "id": "mvo274t8ylzw",
+      "amount": 500,
+      "date": "2026-08-27",
+      "category": "Labour",
+      "note": "",
+      "worker": "Chandra",
+      "task": "Dig a hole",
+      "bill": ""
+    },
+    "mvo27x7qy0l1": {
+      "id": "mvo27x7qy0l1",
+      "amount": 1500,
+      "date": "2026-08-28",
+      "category": "Labour",
+      "note": "",
+      "worker": "Chandra",
+      "task": "Dig a hole for post",
+      "bill": ""
+    },
+    "mvo28ct1zzkr": {
+      "id": "mvo28ct1zzkr",
+      "amount": 1500,
+      "date": "2026-08-28",
+      "category": "Labour",
+      "note": "",
+      "worker": "Marudhu",
+      "task": "Dig a hole for post",
+      "bill": ""
+    },
+    "mvo2a98tin43": {
+      "id": "mvo2a98tin43",
+      "amount": 4000,
+      "date": "2026-08-31",
+      "category": "Labour",
+      "note": "",
+      "worker": "Vijaya and Palanivel",
+      "task": "Post Steel stitch and concrete",
+      "bill": ""
+    },
+    "mvo2cmtbwict": {
+      "id": "mvo2cmtbwict",
+      "amount": 300,
+      "date": "2026-09-10",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2deeubezj": {
+      "id": "mvo2deeubezj",
+      "amount": 400,
+      "date": "2026-09-12",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "Post Box",
+      "bill": ""
+    },
+    "mvo2eog7mf8c": {
+      "id": "mvo2eog7mf8c",
+      "amount": 200,
+      "date": "2026-09-14",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2exvzmob6": {
+      "id": "mvo2exvzmob6",
+      "amount": 1000,
+      "date": "2026-09-14",
+      "category": "Rentals",
+      "note": "Post Box",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2fklcogmw": {
+      "id": "mvo2fklcogmw",
+      "amount": 300,
+      "date": "2026-09-15",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "Steel Delivered",
+      "bill": ""
+    },
+    "mvo2hfns14p6": {
+      "id": "mvo2hfns14p6",
+      "amount": 1500,
+      "date": "2026-09-19",
+      "category": "Labour",
+      "note": "",
+      "worker": "Ganeson & Co",
+      "task": "Take away the extra mud",
+      "bill": ""
+    },
+    "mvo2i6340y5v": {
+      "id": "mvo2i6340y5v",
+      "amount": 200,
+      "date": "2026-09-26",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "Delivered Post Box",
+      "bill": ""
+    },
+    "mvo2ik6x4kmi": {
+      "id": "mvo2ik6x4kmi",
+      "amount": 600,
+      "date": "2026-09-28",
+      "category": "Rentals",
+      "note": "Pillar Post Box",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2iwsoy65b": {
+      "id": "mvo2iwsoy65b",
+      "amount": 200,
+      "date": "2026-09-25",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "Delivered Post Box",
+      "bill": ""
+    },
+    "mvo2od9774cj": {
+      "id": "mvo2od9774cj",
+      "amount": 3200,
+      "date": "2026-09-15",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palanivel & Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2p72zbj4l": {
+      "id": "mvo2p72zbj4l",
+      "amount": 150,
+      "date": "2026-09-16",
+      "category": "Labour",
+      "note": "",
+      "worker": "JUICE",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2qhwkmwu3": {
+      "id": "mvo2qhwkmwu3",
+      "amount": 40,
+      "date": "2026-09-20",
+      "category": "Plumbing",
+      "note": "Solution",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2r84spa6g": {
+      "id": "mvo2r84spa6g",
+      "amount": 1600,
+      "date": "2026-09-20",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palanivel and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2so8sx42n": {
+      "id": "mvo2so8sx42n",
+      "amount": 3500,
+      "date": "2026-09-21",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani & jaya & other",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2ttk56dow": {
+      "id": "mvo2ttk56dow",
+      "amount": 1600,
+      "date": "2026-09-22",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palanivel & jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2v5vqr1sx": {
+      "id": "mvo2v5vqr1sx",
+      "amount": 2500,
+      "date": "2026-09-27",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palanivel and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2w0hy1zrr": {
+      "id": "mvo2w0hy1zrr",
+      "amount": 1000,
+      "date": "2026-09-28",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2x933gljv": {
+      "id": "mvo2x933gljv",
+      "amount": 3000,
+      "date": "2026-09-30",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya and Motta",
+      "task": "",
+      "bill": ""
+    },
+    "mvo2xlee2oin": {
+      "id": "mvo2xlee2oin",
+      "amount": 700,
+      "date": "2026-09-30",
+      "category": "Cement",
+      "note": "2* 350",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo3054gpmjl": {
+      "id": "mvo3054gpmjl",
+      "amount": 2500,
+      "date": "2026-10-01",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani , Jaya & Motta",
+      "task": "",
+      "bill": ""
+    },
+    "mvo31e5khwtp": {
+      "id": "mvo31e5khwtp",
+      "amount": 2500,
+      "date": "2026-10-02",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani , Jaya & Motta",
+      "task": "",
+      "bill": ""
+    },
+    "mvo31y1c2cpn": {
+      "id": "mvo31y1c2cpn",
+      "amount": 3000,
+      "date": "2026-10-05",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo32b9d994d": {
+      "id": "mvo32b9d994d",
+      "amount": 1600,
+      "date": "2026-10-06",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo32qpldxff": {
+      "id": "mvo32qpldxff",
+      "amount": 2100,
+      "date": "2026-10-07",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo33ju9n0vg": {
+      "id": "mvo33ju9n0vg",
+      "amount": 10900,
+      "date": "2026-10-06",
+      "category": "Foundation",
+      "note": "M sand * 2 UNIT",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo340btjj9w": {
+      "id": "mvo340btjj9w",
+      "amount": 10400,
+      "date": "2026-10-07",
+      "category": "Steel",
+      "note": "ARS 550D",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo34g4ofvmt": {
+      "id": "mvo34g4ofvmt",
+      "amount": 400,
+      "date": "2026-10-07",
+      "category": "Labour",
+      "note": "",
+      "worker": "Tempo",
+      "task": "",
+      "bill": ""
+    },
+    "mvo3511mijhg": {
+      "id": "mvo3511mijhg",
+      "amount": 3600,
+      "date": "2026-10-08",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo35gkxmlhi": {
+      "id": "mvo35gkxmlhi",
+      "amount": 170,
+      "date": "2026-10-08",
+      "category": "Other",
+      "note": "Nails",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo35oo1nud7": {
+      "id": "mvo35oo1nud7",
+      "amount": 200,
+      "date": "2026-10-08",
+      "category": "Other",
+      "note": "Hammer",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo36karjlfx": {
+      "id": "mvo36karjlfx",
+      "amount": 2600,
+      "date": "2026-10-09",
+      "category": "Labour",
+      "note": "Belt",
+      "worker": "Palani , ,Jaya and Motta",
+      "task": "",
+      "bill": ""
+    },
+    "mvo36tsy4vs8": {
+      "id": "mvo36tsy4vs8",
+      "amount": 200,
+      "date": "2026-10-10",
+      "category": "Plumbing",
+      "note": "Fixed",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo377lu3rs1": {
+      "id": "mvo377lu3rs1",
+      "amount": 2100,
+      "date": "2026-10-13",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo37sijfjwc": {
+      "id": "mvo37sijfjwc",
+      "amount": 2500,
+      "date": "2026-10-14",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    },
+    "mvo384crplv7": {
+      "id": "mvo384crplv7",
+      "amount": 180,
+      "date": "2026-10-15",
+      "category": "Other",
+      "note": "Nails",
+      "worker": "",
+      "task": "",
+      "bill": ""
+    },
+    "mvo38k3nd7iy": {
+      "id": "mvo38k3nd7iy",
+      "amount": 2500,
+      "date": "2026-10-15",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani , Jaya and other",
+      "task": "",
+      "bill": ""
+    },
+    "mvo39xwzi61u": {
+      "id": "mvo39xwzi61u",
+      "amount": 1800,
+      "date": "2026-10-24",
+      "category": "Labour",
+      "note": "",
+      "worker": "Palani and Jaya",
+      "task": "",
+      "bill": ""
+    }
+  }
+}
